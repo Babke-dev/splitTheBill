@@ -1,7 +1,7 @@
 # 💸 Split The Bill
 > A simple React app to split bills between friends easily and fairly.
 
-[🚀 **Live Demo**](https://your-demo-link.com)
+[🚀 **Live Demo**](https://far-away-xi-dun.vercel.app/)
 
 ---
 
